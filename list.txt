@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 1 Adminstrator 197121 0 Jun  8 12:58 ./
+drwxr-xr-x 1 Adminstrator 197121 0 Jun  8 12:51 ../
+drwxr-xr-x 1 Adminstrator 197121 0 Jun  8 12:56 .git/
+drwxr-xr-x 1 Adminstrator 197121 0 Jun  8 12:54 calc/
+-rw-r--r-- 1 Adminstrator 197121 0 Jun  8 12:58 list.txt
